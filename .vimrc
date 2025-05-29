@@ -42,3 +42,5 @@ if has("termguicolors")
 endif
 
 map <RightMouse> "+y
+
+set foldmethod=syntax
